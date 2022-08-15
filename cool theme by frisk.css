@@ -1,0 +1,96 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Marker+Hatch:wght@100;300;400;500;700&display=swap');
+@import url('https://clearvision.github.io/ClearVision-v6/main.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+
+:root {
+  --main-color: #DF5D53;
+  --hover-color: #032F62;
+  --success-color: #33B67B;
+  --danger-color: #922E2E;
+  --url-color: #873196;
+  --background-image: url('https://i.imgur.com/oDsmT3F.gif');
+  --background-shading: 100%;
+  --background-position: center;
+  --background-size: cover;
+  --background-repeat: no-repeat;
+  --background-attachment: fixed;
+  --background-brightness: 146%;
+  --background-contrast: 194%;
+  --background-saturation: 138%;
+  --background-grayscale: 26%;
+  --background-invert: 22%;
+  --background-blur: 7px;
+  --background-overlay: rgba(0,0,0,0.6);
+  --user-popout-image: url('https://i.imgur.com/o6LTPO4.jpg');
+  --user-popout-position: center right;
+  --user-popout-size: cover;
+  --user-popout-repeat: repeat;
+  --user-popout-attachment: fixed;
+  --user-popout-brightness: 121%;
+  --user-popout-contrast: 300%;
+  --user-popout-saturation: 163%;
+  --user-popout-grayscale: 14%;
+  --user-popout-invert: 0%;
+  --user-popout-blur: 3px;
+  --user-modal-image: url('https://i.imgur.com/6He14vz.jpg');
+  --user-modal-position: Bottom center;
+  --user-modal-size: cover;
+  --user-modal-repeat: no-repeat;
+  --user-modal-attachment: fixed;
+  --user-modal-brightness: 151%;
+  --user-modal-contrast: 300%;
+  --user-modal-saturation: 162%;
+  --user-modal-grayscale: 0%;
+  --user-modal-invert: 22%;
+  --user-modal-blur: 10px;
+  --home-icon: url('https://clearvision.github.io/icons/discord.svg');
+  --home-position: center;
+  --home-size: 45px;
+  --channel-unread: #7D1D1D;
+  --channel-color: rgb(165,0,0,0.3);
+  --muted-color: rgb(233,30,99,1);
+  --online-color: #43b581;
+  --idle-color: #faa61a;
+  --dnd-color: #982929;
+  --streaming-color: #593695;
+  --offline-color: #808080;
+  --main-font: Rubik Marker Hatch;
+  --code-font: Consolas;
+  --channels-width: 220px;
+  --members-width: 240px;
+  --backdrop-overlay: rgba(0,0,0,0.8);
+  --backdrop-image: var(--background-image);
+  --backdrop-position: var(--background-position);
+  --backdrop-size: var(--background-size);
+  --backdrop-repeat: var(--background-repeat);
+  --backdrop-attachment: var(--background-attachment);
+  --backdrop-brightness: var(--background-brightness);
+  --backdrop-contrast: var(--background-contrast);
+  --backdrop-saturation: var(--background-saturation);
+  --backdrop-invert: var(--background-invert);
+  --backdrop-grayscale: var(--background-grayscale);
+  --backdrop-sepia: var(--background-sepia);
+  --backdrop-blur: var(--background-blur);
+  --bd-blue: var(--main-color);
+  --bd-blue-hover: var(--hover-color);
+  --bd-blue-active: var(--hover-color);
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
+}
+
+/* Any custom CSS below here */
+
+
